@@ -10,4 +10,6 @@ public class Livro {
 	public void devolver() {
 		
 	}
+	private String numPaginas;
+	private String autor;
 }
